@@ -1,0 +1,506 @@
+[
+  {
+  "city": "Egypt",
+  "description": "Egypt is a transcontinental country linking northeast Africa with the Middle East, known for its ancient civilization, iconic monuments, and the Nile River.",
+  "location": "Located in North Africa, bordered by the Mediterranean Sea to the north and the Red Sea to the east.",
+  "attractions": [
+    "The Great Pyramids of Giza",
+    "The Nile River",
+    "Valley of the Kings in Luxor",
+    "Abu Simbel Temples",
+    "Red Sea Resorts (Hurghada, Sharm El Sheikh)",
+    "Siwa Oasis",
+    "Cairo's Egyptian Museum",
+    "Al-Azhar Mosque and Islamic Cairo"
+  ]
+},
+  {
+    "city": "Cairo",
+    "description": "Cairo is Egypt's bustling capital, rich in Islamic and ancient history.",
+    "location": "Located on the eastern banks of the Nile in northern Egypt.",
+    "attractions": [
+      "Giza Pyramids and the Sphinx",
+      "Egyptian Museum",
+      "Islamic Cairo",
+      "Khan El Khalili Bazaar"
+    ]
+  },
+  {
+    "city": "Alexandria",
+    "description": "Alexandria is a Mediterranean port city founded by Alexander the Great.",
+    "location": "Located on Egypt's northern coast along the Mediterranean Sea.",
+    "attractions": [
+      "Qaitbay Citadel",
+      "Bibliotheca Alexandrina",
+      "Montaza Palace",
+      "Roman Amphitheatre"
+    ]
+  },
+  {
+    "city": "Luxor",
+    "description": "Luxor is an ancient city known as the world’s greatest open-air museum.",
+    "location": "Located in southern Egypt on the east bank of the Nile.",
+    "attractions": [
+      "Valley of the Kings",
+      "Karnak Temple",
+      "Luxor Temple",
+      "Hatshepsut Temple"
+    ]
+  },
+  {
+    "city": "Aswan",
+    "description": "Aswan is a quiet Nile-side city rich in Nubian culture and natural beauty.",
+    "location": "Located in southern Egypt along the Nile River.",
+    "attractions": [
+      "Philae Temple",
+      "Nubian Museum",
+      "Aswan High Dam",
+      "Elephantine Island"
+    ]
+  },
+  {
+    "city": "Taba",
+    "description": "Taba is a small Egyptian town on the northern tip of the Gulf of Aqaba.",
+    "location": "Located in eastern Sinai, near the Israeli border.",
+    "attractions": [
+      "Pharaoh’s Island and Salah El-Din Citadel",
+      "Taba Heights",
+      "Taba Protected Area",
+      "Diving and Snorkeling in the Gulf of Aqaba"
+    ]
+  },
+  {
+    "city": "Hurghada",
+    "description": "Hurghada is a vibrant Red Sea resort town known for its beaches and coral reefs.",
+    "location": "Located on the western shore of the Red Sea in eastern Egypt.",
+    "attractions": [
+      "Giftun Islands",
+      "Hurghada Marina",
+      "Desert safari tours",
+      "Diving and snorkeling"
+    ]
+  },
+  {
+    "city": "Sharm El-Sheikh",
+    "description": "Sharm El-Sheikh is a major Red Sea resort city known for luxury tourism and marine life.",
+    "location": "Located on the southern tip of the Sinai Peninsula.",
+    "attractions": [
+      "Naama Bay",
+      "Ras Mohammed National Park",
+      "Soho Square",
+      "Scuba diving sites"
+    ]
+  },
+  {
+    "city": "Faiyum",
+    "description": "Faiyum is one of Egypt’s oldest cities, rich in archaeological and natural beauty.",
+    "location": "Located southwest of Cairo in a large depression of the Western Desert.",
+    "attractions": [
+      "Lake Qarun",
+      "Wadi El-Rayan",
+      "Tunis Village",
+      "Hawara Pyramid"
+    ]
+  },
+  {
+    "city": "Dahab",
+    "description": "Dahab is a laid-back beach town popular with backpackers and divers.",
+    "location": "Located on the southeast coast of the Sinai Peninsula.",
+    "attractions": [
+      "Blue Hole diving site",
+      "Laguna Beach",
+      "Mount Sinai excursions",
+      "Bedouin camps"
+    ]
+  },
+  {
+    "city": "Siwa Oasis",
+    "description": "Siwa is a remote oasis known for its Berber culture, hot springs, and salt lakes.",
+    "location": "Located in the Western Desert near the Libyan border.",
+    "attractions": [
+      "Temple of the Oracle",
+      "Cleopatra’s Spring",
+      "Siwa Salt Lakes",
+      "Shali Fortress"
+    ]
+  },
+  {
+    "city": "Port Said",
+    "description": "Port Said is a canal city with colonial architecture and maritime heritage.",
+    "location": "Located at the northern entrance of the Suez Canal on the Mediterranean coast.",
+    "attractions": [
+      "Port Said Lighthouse",
+      "National Museum",
+      "De Lesseps Monument",
+      "Canal-side promenade"
+    ]
+  },
+  {
+    "city": "Suez",
+    "description": "Suez is a strategic port city and industrial center near the Red Sea.",
+    "location": "Located at the southern end of the Suez Canal.",
+    "attractions": [
+      "Suez Canal",
+      "Port Tawfiq",
+      "Ain Sokhna beaches",
+      "Suez National Museum"
+    ]
+  },
+  {
+    "city": "Al Minya",
+    "description": "Al Minya is a historical city in Upper Egypt with ancient ruins and Coptic heritage.",
+    "location": "Located on the west bank of the Nile River in central Egypt.",
+    "attractions": [
+      "Beni Hassan Tombs",
+      "Tell el-Amarna",
+      "Tuna el-Gebel",
+      "Coptic monasteries"
+    ]
+  },
+  {
+    "city": "Ismailia",
+    "description": "Ismailia is a peaceful city on the Suez Canal with green parks and colonial charm.",
+    "location": "Located halfway along the Suez Canal between Port Said and Suez.",
+    "attractions": [
+      "Ismailia Museum",
+      "Lake Timsah",
+      "Suez Canal Authority Building",
+      "De Lesseps House"
+    ]
+  },
+  {
+    "city": "Asyut",
+    "description": "Asyut is a large Upper Egyptian city known for its cultural and religious heritage.",
+    "location": "Located on the west bank of the Nile River in central Egypt.",
+    "attractions": [
+      "Dair al-Muharraq Monastery",
+      "Asyut Barrage",
+      "Asyut University",
+      "Traditional Upper Egyptian markets"
+    ]
+  },
+  
+  {
+    "city": "Pyramids",
+    "location": "Giza Plateau, Giza/Cairo",
+    "description": "The iconic ancient wonders, including the Great Pyramid of Khufu, Pyramid of Khafre, and Pyramid of Menkaure. The last remaining Ancient Wonder of the World.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Great Pyramid of Khufu", "Pyramid of Khafre", "Pyramid of Menkaure", "Great Sphinx of Giza"]
+  },
+  {
+    "city": "Saqqara Complex",
+    "location": "Giza Plateau, Giza/Cairo",
+    "description": "Home to the Step Pyramid of Djoser, the oldest complete stone building in the world, and various mastabas (ancient tombs).",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Step Pyramid of Djoser", "Mastabas"]
+  },
+  {
+    "city": "Dahshur",
+    "location": "Giza Plateau, Giza/Cairo",
+    "description": "Site of the Bent Pyramid and the Red Pyramid, early examples of pyramid construction.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Bent Pyramid", "Red Pyramid"]
+  },
+  {
+    "city": "Karnak Temple Complex",
+    "location": "Luxor",
+    "description": "A vast open-air museum and the largest ancient religious site in the world, featuring massive halls, obelisks, and statues.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Hypostyle Hall", "Sacred Lake", "Statues of Sekhmet"]
+  },
+  {
+    "city": "Luxor Temple",
+    "location": "Luxor",
+    "description": "Beautifully illuminated at night, this temple was once connected to Karnak by an avenue of sphinxes.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Avenue of Sphinxes", "Obelisk of Ramesses II", "Hypostyle Court"]
+  },
+  {
+    "city": "Valley of the Kings",
+    "location": "Luxor (West Bank)",
+    "description": "The burial ground for pharaohs of the New Kingdom, including Tutankhamun's tomb.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Tomb of Tutankhamun (KV62)", "Tomb of Ramesses VI (KV9)", "Tomb of Seti I (KV17)"]
+  },
+  {
+    "city": "Valley of the Queens",
+    "location": "Luxor (West Bank)",
+    "description": "Burial site for queens and royal children, notably the Tomb of Nefertari.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Tomb of Nefertari (QV66)", "Tomb of Amenherkhepshef (QV55)"]
+  },
+  {
+    "city": "Mortuary Temple of Hatshepsut",
+    "location": "Deir el-Bahari, Luxor (West Bank)",
+    "description": "A stunning terraced temple dedicated to the female pharaoh Hatshepsut.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Terraces", "Chapels of Hathor and Anubis", "Reliefs depicting the Punt expedition"]
+  },
+  {
+    "city": "Colossi of Memnon",
+    "location": "Luxor (West Bank)",
+    "description": "Two massive stone statues of Pharaoh Amenhotep III.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": []
+  },
+  {
+    "city": "Luxor Museum",
+    "location": "Luxor",
+    "description": "Houses a remarkable collection of artifacts from the Theban region.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Royal Mummies of Ahmose I and Ramesses I", "Statues of Amenhotep III"]
+  },
+  {
+    "city": "Medinet Habu",
+    "location": "Luxor (West Bank)",
+    "description": "A well-preserved temple with intricate reliefs depicting military campaigns and religious scenes.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["First Pylon", "Forecourt", "Sacred Lake"]
+  },
+  {
+    "city": "Abydos Temple",
+    "location": "Abydos, Sohag Governorate",
+    "description": "Known for its beautifully preserved reliefs and the Abydos King List, which provides a chronological list of most dynastic pharaohs.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Abydos King List", "Osireion"]
+  },
+  {
+    "city": "Dendera Temple",
+    "location": "Qena Governorate",
+    "description": "One of the best-preserved temples in Egypt, dedicated to the goddess Hathor, with stunning astrological ceilings.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Temple of Hathor", "Dendera Zodiac", "Crypts"]
+  },
+  {
+    "city": "Philae Temple",
+    "location": "Agilkia Island, Aswan",
+    "description": "A beautiful temple complex relocated to Agilkia Island to save it from the Aswan High Dam. Dedicated to the goddess Isis.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Temple of Isis", "Kiosk of Trajan"]
+  },
+  {
+    "city": "Abu Simbel Temples",
+    "location": "Aswan Governorate (near Sudanese border)",
+    "description": "Two massive rock-cut temples dedicated to Ramses II and his wife Nefertari, famously relocated to save them from flooding.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Great Temple of Ramesses II", "Small Temple of Nefertari"]
+  },
+  {
+    "city": "Unfinished Obelisk",
+    "location": "Aswan",
+    "description": "A giant obelisk still attached to the bedrock in a granite quarry, providing insight into ancient quarrying techniques.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": []
+  },
+  {
+    "city": "Aswan High Dam",
+    "location": "Aswan",
+    "description": "A modern marvel of engineering that controls the Nile's floods and created Lake Nasser.",
+    "category": "Modern & Engineering Marvels",
+    "attractions": ["Observation point"]
+  },
+  {
+    "city": "Nubian Village",
+    "location": "Aswan (West Bank)",
+    "description": "Experience the colorful culture, unique architecture, and hospitality of the Nubian people.",
+    "category": "Cultural & Local Experiences",
+    "attractions": ["Traditional houses", "Local markets", "Camel rides"]
+  },
+  {
+    "city": "Aga Khan Mausoleum",
+    "location": "Aswan (West Bank)",
+    "description": "The resting place of Aga Khan III, with stunning views of the Nile.",
+    "category": "Historical & Religious Sites",
+    "attractions": []
+  },
+  {
+    "city": "Egyptian Museum",
+    "location": "Cairo (GEM in Giza)",
+    "description": "Houses the world's largest collection of ancient Egyptian artifacts, including the treasures of Tutankhamun. (GEM is planned to be the main national museum.)",
+    "category": "Museums",
+    "attractions": ["Tutankhamun's treasures", "Royal Mummies Room (at GEM)", "Statues and sarcophagi"]
+  },
+  {
+    "city": "Islamic Cairo",
+    "location": "Cairo",
+    "description": "A UNESCO World Heritage site filled with medieval mosques, madrassas, and historical buildings.",
+    "category": "Historical & Cultural Sites",
+    "attractions": ["Citadel of Salah al-Din", "Mosque of Muhammad Ali", "Khan el-Khalili Bazaar", "Al-Azhar Mosque", "Sultan Hassan Mosque-Madrassa"]
+  },
+  {
+    "city": "Citadel of Salah al-Din",
+    "location": "Islamic Cairo, Cairo",
+    "description": "A medieval Islamic fortress with panoramic views of Cairo, home to the Mosque of Muhammad Ali.",
+    "category": "Historical & Cultural Sites",
+    "attractions": ["Mosque of Muhammad Ali", "Al-Nasir Muhammad Mosque", "Gawhara Palace Museum"]
+  },
+  {
+    "city": "Khan el-Khalili Bazaar",
+    "location": "Islamic Cairo, Cairo",
+    "description": "A vibrant and historic market for souvenirs, spices, traditional crafts, and street food.",
+    "category": "Shopping & Cultural Experiences",
+    "attractions": ["Shopping stalls", "Coffee shops", "Local eateries"]
+  },
+  {
+    "city": "Coptic Cairo",
+    "location": "Cairo",
+    "description": "A historic area with ancient churches, including the Hanging Church, Church of St. Sergius and Bacchus, and Ben Ezra Synagogue.",
+    "category": "Religious Sites",
+    "attractions": ["Hanging Church (Saint Virgin Mary's Coptic Orthodox Church)", "Church of St. Sergius and Bacchus", "Ben Ezra Synagogue", "Coptic Museum"]
+  },
+  {
+    "city": "National Museum of Egyptian Civilization",
+    "location": "Fustat, Cairo",
+    "description": "Features a magnificent 'Mummies Royal Hall' showcasing royal mummies in a state-of-the-art facility.",
+    "category": "Museums",
+    "attractions": ["Mummies Royal Hall", "Core exhibition on Egyptian civilization"]
+  },
+  {
+    "city": "Cairo Tower",
+    "location": "Zamalek, Cairo",
+    "description": "Offers panoramic views of the city from its observation deck.",
+    "category": "Viewpoints & Landmarks",
+    "attractions": ["Observation deck", "Revolving restaurant"]
+  },
+  {
+    "city": "Bibliotheca Alexandrina",
+    "location": "Alexandria",
+    "description": "A modern architectural marvel honoring the ancient Library of Alexandria, serving as a major cultural center.",
+    "category": "Modern & Cultural Sites",
+    "attractions": ["Main reading area", "Museums (Antiquities, Manuscripts, Sadat)", "Planetarium"]
+  },
+  {
+    "city": "Citadel of Qaitbay",
+    "location": "Alexandria",
+    "description": "A 15th-century fortress built on the site of the ancient Lighthouse of Alexandria.",
+    "category": "Historical Sites",
+    "attractions": ["Fortress walls", "Views of the Mediterranean"]
+  },
+  {
+    "city": "Catacombs of Kom el Shoqafa",
+    "location": "Alexandria",
+    "description": "A Roman-era necropolis with a unique blend of Egyptian, Roman, and Greek art and architecture.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Funerary banqueting hall", "Tombs and sarcophagi"]
+  },
+  {
+    "city": "Pompey's Pillar",
+    "location": "Alexandria",
+    "description": "A massive Roman column, part of the ancient Serapion complex.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Pillar itself", "Remains of the Serapion"]
+  },
+  {
+    "city": "Roman Amphitheatre",
+    "location": "Alexandria",
+    "description": "Remains of a Roman theater in the city center, offering insight into ancient entertainment.",
+    "category": "Ancient Wonders & Historical Sites",
+    "attractions": ["Seating rows", "Mosaics"]
+  },
+  {
+    "city": "Montaza Palace Gardens",
+    "location": "Alexandria",
+    "description": "Beautiful gardens surrounding a former royal palace (Montaza Palace), offering a peaceful escape.",
+    "category": "Parks & Gardens",
+    "attractions": ["Gardens", "Palace exterior (private)", "Beaches"]
+  },
+  {
+    "city": "Nile River Cruise",
+    "location": "Between Luxor and Aswan",
+    "description": "Experience the beauty of the Nile while visiting ancient temples and tombs along its banks.",
+    "category": "Experiences & Tours",
+    "attractions": ["Various temples (e.g., Kom Ombo, Edfu)", "Scenic views"]
+  },
+  {
+    "city": "Red Sea Riviera",
+    "location": "Hurghada, Sharm El Sheikh, Dahab, Marsa Alam",
+    "description": "A paradise for diving, snorkeling, and beach holidays with vibrant coral reefs and diverse marine life.",
+    "category": "Coastal & Natural Attractions",
+    "attractions": ["World-class diving and snorkeling sites", "Beaches", "Water sports"]
+  },
+  {
+    "city": "Ras Mohammed National Park",
+    "location": "Sharm El Sheikh",
+    "description": "A protected area at the southern tip of the Sinai Peninsula, renowned for its diverse marine life and coral reefs.",
+    "category": "Natural Parks & Reserves",
+    "attractions": ["Shark Reef", "Yolanda Reef", "Mangroves", "Observation point"]
+  },
+  {
+    "city": "Giftun Islands",
+    "location": "Near Hurghada",
+    "description": "Popular for day trips, snorkeling, diving, and relaxing on pristine sandy beaches.",
+    "category": "Islands & Beaches",
+    "attractions": ["Snorkeling spots", "Sandy beaches", "Boat trips"]
+  },
+  {
+    "city": "White Desert National Park",
+    "location": "Western Desert, Farafra Oasis",
+    "description": "A surreal landscape with chalk rock formations sculpted by wind, creating unique 'mushroom' and 'ice cream cone' shapes.",
+    "category": "Natural Parks & Reserves",
+    "attractions": ["White chalk formations", "Camping under the stars"]
+  },
+  {
+    "city": "Siwa Oasis",
+    "location": "Western Desert, near Libyan border",
+    "description": "A remote and unique oasis with ancient ruins, salt lakes, hot springs, and a distinct Berber culture.",
+    "category": "Oases & Cultural Sites",
+    "attractions": ["Temple of the Oracle (Temple of Amun)", "Shali Fortress", "Cleopatra's Bath", "Salt Lakes", "Desert safaris"]
+  },
+  {
+    "city": "Wadi El Hitan",
+    "location": "Faiyum Oasis",
+    "description": "A UNESCO World Heritage site famous for its exceptionally preserved fossilized whale skeletons from an ancient ocean.",
+    "category": "Natural Parks & Reserves",
+    "attractions": ["Fossilized whale skeletons", "Desert landscapes"]
+  },
+  {
+    "city": "Mount Sinai",
+    "location": "Sinai Peninsula",
+    "description": "A significant religious site, believed to be where Moses received the Ten Commandments. Many hike to the summit for sunrise.",
+    "category": "Religious Sites & Natural Attractions",
+    "attractions": ["Sunrise views", "Chapel of the Holy Trinity"]
+  },
+  {
+    "city": "St. Catherine's Monastery",
+    "location": "Sinai Peninsula, at the foot of Mount Sinai",
+    "description": "One of the oldest continuously inhabited Christian monasteries in the world, home to invaluable manuscripts and icons.",
+    "category": "Religious Sites & Historical Sites",
+    "attractions": ["Burning Bush", "Monastery library (restricted access)", "Icons and mosaics"]
+  },
+  {
+    "city": "Coloured Canyon",
+    "location": "Near Nuweiba, Sinai Peninsula",
+    "description": "A natural geological formation with stunning rock colors and formations, perfect for hiking and exploring.",
+    "category": "Natural Attractions",
+    "attractions": ["Narrow canyon passages", "Vibrant rock formations"]
+  },
+  {
+    "city": "Port Said",
+    "location": "Northern Suez Canal",
+    "description": "A historic port city at the northern entrance of the Suez Canal, known for its colonial-era architecture.",
+    "category": "Cities & Historical Sites",
+    "attractions": ["Suez Canal Authority Building", "Lighthouse of Port Said", "National Museum of Port Said"]
+  },
+  {
+    "city": "Suez",
+    "location": "Southern Suez Canal",
+    "description": "A seaport city at the southern end of the Suez Canal, historically significant.",
+    "category": "Cities & Historical Sites",
+    "attractions": ["Suez Canal (southern terminus)", "Ain Sokhna (nearby resort area)"]
+  },
+  {
+    "city": "Ismailia",
+    "location": "Mid-Suez Canal",
+    "description": "A charming city on the west bank of the Suez Canal, known for its green spaces and French colonial architecture.",
+    "category": "Cities & Historical Sites",
+    "attractions": ["Suez Canal Museum", "Timsah Lake", "Ferdinand de Lesseps' House"]
+  },
+  {
+    "city": "Marsa Matruh",
+    "location": "Mediterranean Coast, west of Alexandria",
+    "description": "A beautiful Mediterranean coastal city with stunning clear waters and pristine beaches.",
+    "category": "Coastal & Natural Attractions",
+    "attractions": ["Ageeba Beach", "Rommel's Cave", "Cleopatra's Bath"]
+  }
+]
+
