@@ -74,8 +74,10 @@ def city_info_response(message):
                 return f"{city_item['city']} is located at: {city_item['location']}."
             elif any(kw in message for kw in ['what', 'description', 'info', 'tell me about']):
                 return f"{city_item['city']} is: {city_item['description']}"
-            elif any(kw in message for kw in ['visit', 'attractions', 'places', 'see' ,'places to visit' , 'iconic' , 'top places' ]):
+            elif any(kw in message for kw in ['visit', 'attractions', 'places', 'see' ,'places to visit' , 'iconic' , 'top places','where to go', 'go' ]):
                 return f"Top places in {city_item['city']}: {', '.join(city_item.get('attractions', []))}"
+            elif any(kw in message for kw in ['weather', 'weather in']):
+                return f"The weather in {city_item['city']}: {', '.join(city_item.get('weather', []))}"
             else:
                 return f"{city_item['city']}: {city_item['description']} Located at: {city_item['location']}."
 

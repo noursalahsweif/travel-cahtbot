@@ -1,19 +1,20 @@
 [
   {
-  "city": "Egypt",
-  "description": "Egypt is a transcontinental country linking northeast Africa with the Middle East, known for its ancient civilization, iconic monuments, and the Nile River.",
-  "location": "Located in North Africa, bordered by the Mediterranean Sea to the north and the Red Sea to the east.",
-  "attractions": [
-    "The Great Pyramids of Giza",
-    "The Nile River",
-    "Valley of the Kings in Luxor",
-    "Abu Simbel Temples",
-    "Red Sea Resorts (Hurghada, Sharm El Sheikh)",
-    "Siwa Oasis",
-    "Cairo's Egyptian Museum",
-    "Al-Azhar Mosque and Islamic Cairo"
-  ]
-},
+    "city": "Egypt",
+    "description": "Egypt is a transcontinental country linking northeast Africa with the Middle East, known for its ancient civilization, iconic monuments, and the Nile River.",
+    "location": "Located in North Africa, bordered by the Mediterranean Sea to the north and the Red Sea to the east.",
+    "attractions": [
+      "The Great Pyramids of Giza",
+      "The Nile River",
+      "Valley of the Kings in Luxor",
+      "Abu Simbel Temples",
+      "Red Sea Resorts (Hurghada, Sharm El Sheikh)",
+      "Siwa Oasis",
+      "Cairo's Egyptian Museum",
+      "Al-Azhar Mosque and Islamic Cairo"
+    ],
+    "weather": "Hot and dry in summer, mild in winter. Generally very hot across most of the country in June, especially in Upper Egypt."
+  },
   {
     "city": "Cairo",
     "description": "Cairo is Egypt's bustling capital, rich in Islamic and ancient history.",
@@ -23,7 +24,8 @@
       "Egyptian Museum",
       "Islamic Cairo",
       "Khan El Khalili Bazaar"
-    ]
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C. Can exceed 40°C during heatwaves."
   },
   {
     "city": "Alexandria",
@@ -34,7 +36,8 @@
       "Bibliotheca Alexandrina",
       "Montaza Palace",
       "Roman Amphitheatre"
-    ]
+    ],
+    "weather": "Hot and dry in June with refreshing sea breezes. Average daytime temperature around 29-31°C, nighttime around 20-23°C. Occasional heatwaves can push temperatures above 40°C. Average wind speed around 20-27 km/h."
   },
   {
     "city": "Luxor",
@@ -45,7 +48,8 @@
       "Karnak Temple",
       "Luxor Temple",
       "Hatshepsut Temple"
-    ]
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Aswan",
@@ -56,7 +60,8 @@
       "Nubian Museum",
       "Aswan High Dam",
       "Elephantine Island"
-    ]
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 42°C, nighttime around 27°C. Almost no rainfall, average wind speed 4 m/s (14.4 km/h)."
   },
   {
     "city": "Taba",
@@ -67,7 +72,8 @@
       "Taba Heights",
       "Taba Protected Area",
       "Diving and Snorkeling in the Gulf of Aqaba"
-    ]
+    ],
+    "weather": "Very hot and dry in June. Temperatures typically high, with cool evenings due to desert climate."
   },
   {
     "city": "Hurghada",
@@ -78,7 +84,8 @@
       "Hurghada Marina",
       "Desert safari tours",
       "Diving and snorkeling"
-    ]
+    ],
+    "weather": "Very hot and dry in June. Average daytime temperature around 33°C, but feels hotter with humidity. Pleasant sea breezes."
   },
   {
     "city": "Sharm El-Sheikh",
@@ -89,7 +96,8 @@
       "Ras Mohammed National Park",
       "Soho Square",
       "Scuba diving sites"
-    ]
+    ],
+    "weather": "Very hot and dry in June. Average daytime temperature around 36°C, but feels hotter with humidity. Pleasant sea breezes."
   },
   {
     "city": "Faiyum",
@@ -100,7 +108,8 @@
       "Wadi El-Rayan",
       "Tunis Village",
       "Hawara Pyramid"
-    ]
+    ],
+    "weather": "Very hot and dry in June. Temperatures typically high, with clear skies."
   },
   {
     "city": "Dahab",
@@ -111,7 +120,8 @@
       "Laguna Beach",
       "Mount Sinai excursions",
       "Bedouin camps"
-    ]
+    ],
+    "weather": "Very hot and dry in June. Average daytime temperature around 34°C, nighttime around 25°C. Water temperature around 26°C. Almost no rainfall, average wind speed around 14 km/h."
   },
   {
     "city": "Siwa Oasis",
@@ -122,7 +132,8 @@
       "Cleopatra’s Spring",
       "Siwa Salt Lakes",
       "Shali Fortress"
-    ]
+    ],
+    "weather": "Extremely hot and dry in June. Temperatures can be very high during the day, with cooler desert nights."
   },
   {
     "city": "Port Said",
@@ -133,7 +144,8 @@
       "National Museum",
       "De Lesseps Monument",
       "Canal-side promenade"
-    ]
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Temperatures typically high, but more pleasant than inland areas."
   },
   {
     "city": "Suez",
@@ -144,7 +156,8 @@
       "Port Tawfiq",
       "Ain Sokhna beaches",
       "Suez National Museum"
-    ]
+    ],
+    "weather": "Hot and dry in June, with high humidity near the coast. Temperatures typically high."
   },
   {
     "city": "Al Minya",
@@ -155,7 +168,8 @@
       "Tell el-Amarna",
       "Tuna el-Gebel",
       "Coptic monasteries"
-    ]
+    ],
+    "weather": "Really hot and dry in June. Average daytime temperature around 38°C, nighttime around 22°C. Can feel slightly windy."
   },
   {
     "city": "Ismailia",
@@ -166,7 +180,8 @@
       "Lake Timsah",
       "Suez Canal Authority Building",
       "De Lesseps House"
-    ]
+    ],
+    "weather": "Hot and dry in June, with high humidity due to proximity to the canal and lake."
   },
   {
     "city": "Asyut",
@@ -177,330 +192,534 @@
       "Asyut Barrage",
       "Asyut University",
       "Traditional Upper Egyptian markets"
-    ]
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 39°C, nighttime around 25°C."
   },
-  
   {
     "city": "Pyramids",
     "location": "Giza Plateau, Giza/Cairo",
     "description": "The iconic ancient wonders, including the Great Pyramid of Khufu, Pyramid of Khafre, and Pyramid of Menkaure. The last remaining Ancient Wonder of the World.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Great Pyramid of Khufu", "Pyramid of Khafre", "Pyramid of Menkaure", "Great Sphinx of Giza"]
+    "attractions": [
+      "Great Pyramid of Khufu",
+      "Pyramid of Khafre",
+      "Pyramid of Menkaure",
+      "Great Sphinx of Giza"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C. Can exceed 40°C during heatwaves. Clear skies."
   },
   {
     "city": "Saqqara Complex",
     "location": "Giza Plateau, Giza/Cairo",
     "description": "Home to the Step Pyramid of Djoser, the oldest complete stone building in the world, and various mastabas (ancient tombs).",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Step Pyramid of Djoser", "Mastabas"]
+    "attractions": [
+      "Step Pyramid of Djoser",
+      "Mastabas"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C. Can feel slightly windy. Clear skies."
   },
   {
     "city": "Dahshur",
     "location": "Giza Plateau, Giza/Cairo",
     "description": "Site of the Bent Pyramid and the Red Pyramid, early examples of pyramid construction.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Bent Pyramid", "Red Pyramid"]
+    "attractions": [
+      "Bent Pyramid",
+      "Red Pyramid"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-38°C, nighttime around 24-26°C. Can feel slightly windy. Clear skies. Hot weather expected, recommended to drink plenty of water."
   },
   {
     "city": "Karnak Temple Complex",
     "location": "Luxor",
     "description": "A vast open-air museum and the largest ancient religious site in the world, featuring massive halls, obelisks, and statues.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Hypostyle Hall", "Sacred Lake", "Statues of Sekhmet"]
+    "attractions": [
+      "Hypostyle Hall",
+      "Sacred Lake",
+      "Statues of Sekhmet"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Luxor Temple",
     "location": "Luxor",
     "description": "Beautifully illuminated at night, this temple was once connected to Karnak by an avenue of sphinxes.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Avenue of Sphinxes", "Obelisk of Ramesses II", "Hypostyle Court"]
+    "attractions": [
+      "Avenue of Sphinxes",
+      "Obelisk of Ramesses II",
+      "Hypostyle Court"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Valley of the Kings",
     "location": "Luxor (West Bank)",
     "description": "The burial ground for pharaohs of the New Kingdom, including Tutankhamun's tomb.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Tomb of Tutankhamun (KV62)", "Tomb of Ramesses VI (KV9)", "Tomb of Seti I (KV17)"]
+    "attractions": [
+      "Tomb of Tutankhamun (KV62)",
+      "Tomb of Ramesses VI (KV9)",
+      "Tomb of Seti I (KV17)"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Valley of the Queens",
     "location": "Luxor (West Bank)",
     "description": "Burial site for queens and royal children, notably the Tomb of Nefertari.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Tomb of Nefertari (QV66)", "Tomb of Amenherkhepshef (QV55)"]
+    "attractions": [
+      "Tomb of Nefertari (QV66)",
+      "Tomb of Amenherkhepshef (QV55)"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Mortuary Temple of Hatshepsut",
     "location": "Deir el-Bahari, Luxor (West Bank)",
     "description": "A stunning terraced temple dedicated to the female pharaoh Hatshepsut.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Terraces", "Chapels of Hathor and Anubis", "Reliefs depicting the Punt expedition"]
+    "attractions": [
+      "Terraces",
+      "Chapels of Hathor and Anubis",
+      "Reliefs depicting the Punt expedition"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Colossi of Memnon",
     "location": "Luxor (West Bank)",
     "description": "Two massive stone statues of Pharaoh Amenhotep III.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": []
+    "attractions": [],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C. No refreshing sea breeze."
   },
   {
     "city": "Luxor Museum",
     "location": "Luxor",
     "description": "Houses a remarkable collection of artifacts from the Theban region.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Royal Mummies of Ahmose I and Ramesses I", "Statues of Amenhotep III"]
+    "attractions": [
+      "Royal Mummies of Ahmose I and Ramesses I",
+      "Statues of Amenhotep III"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Medinet Habu",
     "location": "Luxor (West Bank)",
     "description": "A well-preserved temple with intricate reliefs depicting military campaigns and religious scenes.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["First Pylon", "Forecourt", "Sacred Lake"]
+    "attractions": [
+      "First Pylon",
+      "Forecourt",
+      "Sacred Lake"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 22°C."
   },
   {
     "city": "Abydos Temple",
     "location": "Abydos, Sohag Governorate",
     "description": "Known for its beautifully preserved reliefs and the Abydos King List, which provides a chronological list of most dynastic pharaohs.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Abydos King List", "Osireion"]
+    "attractions": [
+      "Abydos King List",
+      "Osireion"
+    ],
+    "weather": "Really hot and dry in June. Average daytime temperature around 40°C, nighttime around 23°C. Can feel slightly windy. Relative humidity around 19%."
   },
   {
     "city": "Dendera Temple",
     "location": "Qena Governorate",
     "description": "One of the best-preserved temples in Egypt, dedicated to the goddess Hathor, with stunning astrological ceilings.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Temple of Hathor", "Dendera Zodiac", "Crypts"]
+    "attractions": [
+      "Temple of Hathor",
+      "Dendera Zodiac",
+      "Crypts"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 41°C, nighttime around 23°C."
   },
   {
     "city": "Philae Temple",
     "location": "Agilkia Island, Aswan",
     "description": "A beautiful temple complex relocated to Agilkia Island to save it from the Aswan High Dam. Dedicated to the goddess Isis.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Temple of Isis", "Kiosk of Trajan"]
+    "attractions": [
+      "Temple of Isis",
+      "Kiosk of Trajan"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 42°C, nighttime around 27°C."
   },
   {
     "city": "Abu Simbel Temples",
     "location": "Aswan Governorate (near Sudanese border)",
     "description": "Two massive rock-cut temples dedicated to Ramses II and his wife Nefertari, famously relocated to save them from flooding.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Great Temple of Ramesses II", "Small Temple of Nefertari"]
+    "attractions": [
+      "Great Temple of Ramesses II",
+      "Small Temple of Nefertari"
+    ],
+    "weather": "Really hot and dry in June. Average daytime temperature around 41°C, nighttime around 25°C. Can feel slightly windy."
   },
   {
     "city": "Unfinished Obelisk",
     "location": "Aswan",
     "description": "A giant obelisk still attached to the bedrock in a granite quarry, providing insight into ancient quarrying techniques.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": []
+    "attractions": [],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 42°C, nighttime around 27°C."
   },
   {
     "city": "Aswan High Dam",
     "location": "Aswan",
     "description": "A modern marvel of engineering that controls the Nile's floods and created Lake Nasser.",
     "category": "Modern & Engineering Marvels",
-    "attractions": ["Observation point"]
+    "attractions": [
+      "Observation point"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 42°C, nighttime around 27°C."
   },
   {
     "city": "Nubian Village",
     "location": "Aswan (West Bank)",
     "description": "Experience the colorful culture, unique architecture, and hospitality of the Nubian people.",
     "category": "Cultural & Local Experiences",
-    "attractions": ["Traditional houses", "Local markets", "Camel rides"]
+    "attractions": [
+      "Traditional houses",
+      "Local markets",
+      "Camel rides"
+    ],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 42°C, nighttime around 27°C."
   },
   {
     "city": "Aga Khan Mausoleum",
     "location": "Aswan (West Bank)",
     "description": "The resting place of Aga Khan III, with stunning views of the Nile.",
     "category": "Historical & Religious Sites",
-    "attractions": []
+    "attractions": [],
+    "weather": "Extremely hot and dry in June. Average daytime temperature around 38-39°C, nighttime around 25-27°C."
   },
   {
     "city": "Egyptian Museum",
     "location": "Cairo (GEM in Giza)",
     "description": "Houses the world's largest collection of ancient Egyptian artifacts, including the treasures of Tutankhamun. (GEM is planned to be the main national museum.)",
     "category": "Museums",
-    "attractions": ["Tutankhamun's treasures", "Royal Mummies Room (at GEM)", "Statues and sarcophagi"]
+    "attractions": [
+      "Tutankhamun's treasures",
+      "Royal Mummies Room (at GEM)",
+      "Statues and sarcophagi"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C."
   },
   {
     "city": "Islamic Cairo",
     "location": "Cairo",
     "description": "A UNESCO World Heritage site filled with medieval mosques, madrassas, and historical buildings.",
     "category": "Historical & Cultural Sites",
-    "attractions": ["Citadel of Salah al-Din", "Mosque of Muhammad Ali", "Khan el-Khalili Bazaar", "Al-Azhar Mosque", "Sultan Hassan Mosque-Madrassa"]
+    "attractions": [
+      "Citadel of Salah al-Din",
+      "Mosque of Muhammad Ali",
+      "Khan el-Khalili Bazaar",
+      "Al-Azhar Mosque",
+      "Sultan Hassan Mosque-Madrassa"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C. Can exceed 40°C during heatwaves."
   },
   {
     "city": "Citadel of Salah al-Din",
     "location": "Islamic Cairo, Cairo",
     "description": "A medieval Islamic fortress with panoramic views of Cairo, home to the Mosque of Muhammad Ali.",
     "category": "Historical & Cultural Sites",
-    "attractions": ["Mosque of Muhammad Ali", "Al-Nasir Muhammad Mosque", "Gawhara Palace Museum"]
+    "attractions": [
+      "Mosque of Muhammad Ali",
+      "Al-Nasir Muhammad Mosque",
+      "Gawhara Palace Museum"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-36°C, nighttime around 21-22°C."
   },
   {
     "city": "Khan el-Khalili Bazaar",
     "location": "Islamic Cairo, Cairo",
     "description": "A vibrant and historic market for souvenirs, spices, traditional crafts, and street food.",
     "category": "Shopping & Cultural Experiences",
-    "attractions": ["Shopping stalls", "Coffee shops", "Local eateries"]
+    "attractions": [
+      "Shopping stalls",
+      "Coffee shops",
+      "Local eateries"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C."
   },
   {
     "city": "Coptic Cairo",
     "location": "Cairo",
     "description": "A historic area with ancient churches, including the Hanging Church, Church of St. Sergius and Bacchus, and Ben Ezra Synagogue.",
     "category": "Religious Sites",
-    "attractions": ["Hanging Church (Saint Virgin Mary's Coptic Orthodox Church)", "Church of St. Sergius and Bacchus", "Ben Ezra Synagogue", "Coptic Museum"]
+    "attractions": [
+      "Hanging Church (Saint Virgin Mary's Coptic Orthodox Church)",
+      "Church of St. Sergius and Bacchus",
+      "Ben Ezra Synagogue",
+      "Coptic Museum"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C."
   },
   {
     "city": "National Museum of Egyptian Civilization",
     "location": "Fustat, Cairo",
     "description": "Features a magnificent 'Mummies Royal Hall' showcasing royal mummies in a state-of-the-art facility.",
     "category": "Museums",
-    "attractions": ["Mummies Royal Hall", "Core exhibition on Egyptian civilization"]
+    "attractions": [
+      "Mummies Royal Hall",
+      "Core exhibition on Egyptian civilization"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 35-40°C, nighttime around 20-25°C."
   },
   {
     "city": "Cairo Tower",
     "location": "Zamalek, Cairo",
     "description": "Offers panoramic views of the city from its observation deck.",
     "category": "Viewpoints & Landmarks",
-    "attractions": ["Observation deck", "Revolving restaurant"]
+    "attractions": [
+      "Observation deck",
+      "Revolving restaurant"
+    ],
+    "weather": "Hot and dry in June. Average daytime temperature around 30-40°C, occasionally reaching 50°C. Typically very hot."
   },
   {
     "city": "Bibliotheca Alexandrina",
     "location": "Alexandria",
     "description": "A modern architectural marvel honoring the ancient Library of Alexandria, serving as a major cultural center.",
     "category": "Modern & Cultural Sites",
-    "attractions": ["Main reading area", "Museums (Antiquities, Manuscripts, Sadat)", "Planetarium"]
+    "attractions": [
+      "Main reading area",
+      "Museums (Antiquities, Manuscripts, Sadat)",
+      "Planetarium"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Average daytime temperature around 26-31°C, occasional heatwaves can exceed 40°C."
   },
   {
     "city": "Citadel of Qaitbay",
     "location": "Alexandria",
     "description": "A 15th-century fortress built on the site of the ancient Lighthouse of Alexandria.",
     "category": "Historical Sites",
-    "attractions": ["Fortress walls", "Views of the Mediterranean"]
+    "attractions": [
+      "Fortress walls",
+      "Views of the Mediterranean"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Average daytime temperature around 29-31°C, nighttime around 20-23°C."
   },
   {
     "city": "Catacombs of Kom el Shoqafa",
     "location": "Alexandria",
     "description": "A Roman-era necropolis with a unique blend of Egyptian, Roman, and Greek art and architecture.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Funerary banqueting hall", "Tombs and sarcophagi"]
+    "attractions": [
+      "Funerary banqueting hall",
+      "Tombs and sarcophagi"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Average daytime temperature around 29-31°C, nighttime around 20-23°C."
   },
   {
     "city": "Pompey's Pillar",
     "location": "Alexandria",
     "description": "A massive Roman column, part of the ancient Serapion complex.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Pillar itself", "Remains of the Serapion"]
+    "attractions": [
+      "Pillar itself",
+      "Remains of the Serapion"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Average daytime temperature around 29-31°C, nighttime around 20-23°C."
   },
   {
     "city": "Roman Amphitheatre",
     "location": "Alexandria",
     "description": "Remains of a Roman theater in the city center, offering insight into ancient entertainment.",
     "category": "Ancient Wonders & Historical Sites",
-    "attractions": ["Seating rows", "Mosaics"]
+    "attractions": [
+      "Seating rows",
+      "Mosaics"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Average daytime temperature around 29-31°C, nighttime around 20-23°C."
   },
   {
     "city": "Montaza Palace Gardens",
     "location": "Alexandria",
     "description": "Beautiful gardens surrounding a former royal palace (Montaza Palace), offering a peaceful escape.",
     "category": "Parks & Gardens",
-    "attractions": ["Gardens", "Palace exterior (private)", "Beaches"]
+    "attractions": [
+      "Gardens",
+      "Palace exterior (private)",
+      "Beaches"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Average daytime temperature around 29-31°C, nighttime around 20-23°C."
   },
   {
     "city": "Nile River Cruise",
     "location": "Between Luxor and Aswan",
     "description": "Experience the beauty of the Nile while visiting ancient temples and tombs along its banks.",
     "category": "Experiences & Tours",
-    "attractions": ["Various temples (e.g., Kom Ombo, Edfu)", "Scenic views"]
+    "attractions": [
+      "Various temples (e.g., Kom Ombo, Edfu)",
+      "Scenic views"
+    ],
+    "weather": "Extremely hot and dry in June, with temperatures consistently very high. Average daytime temperature around 41-42°C."
   },
   {
     "city": "Red Sea Riviera",
     "location": "Hurghada, Sharm El Sheikh, Dahab, Marsa Alam",
     "description": "A paradise for diving, snorkeling, and beach holidays with vibrant coral reefs and diverse marine life.",
     "category": "Coastal & Natural Attractions",
-    "attractions": ["World-class diving and snorkeling sites", "Beaches", "Water sports"]
+    "attractions": [
+      "World-class diving and snorkeling sites",
+      "Beaches",
+      "Water sports"
+    ],
+    "weather": "Very hot and dry in June, with high humidity. Average daytime temperatures typically range from 33-36°C, with pleasant sea breezes. Water temperatures are ideal for swimming."
   },
   {
     "city": "Ras Mohammed National Park",
     "location": "Sharm El Sheikh",
     "description": "A protected area at the southern tip of the Sinai Peninsula, renowned for its diverse marine life and coral reefs.",
     "category": "Natural Parks & Reserves",
-    "attractions": ["Shark Reef", "Yolanda Reef", "Mangroves", "Observation point"]
+    "attractions": [
+      "Shark Reef",
+      "Yolanda Reef",
+      "Mangroves",
+      "Observation point"
+    ],
+    "weather": "Very hot and dry in June, with high humidity. Average daytime temperature around 36°C, but feels hotter with humidity."
   },
   {
     "city": "Giftun Islands",
     "location": "Near Hurghada",
     "description": "Popular for day trips, snorkeling, diving, and relaxing on pristine sandy beaches.",
     "category": "Islands & Beaches",
-    "attractions": ["Snorkeling spots", "Sandy beaches", "Boat trips"]
+    "attractions": [
+      "Snorkeling spots",
+      "Sandy beaches",
+      "Boat trips"
+    ],
+    "weather": "Very hot and dry in June, with high humidity. Average daytime temperature around 33°C, but feels hotter with humidity. Ideal for water activities."
   },
   {
     "city": "White Desert National Park",
     "location": "Western Desert, Farafra Oasis",
     "description": "A surreal landscape with chalk rock formations sculpted by wind, creating unique 'mushroom' and 'ice cream cone' shapes.",
     "category": "Natural Parks & Reserves",
-    "attractions": ["White chalk formations", "Camping under the stars"]
+    "attractions": [
+      "White chalk formations",
+      "Camping under the stars"
+    ],
+    "weather": "Extremely hot and dry in June during the day, with significant temperature drops at night characteristic of desert climates."
   },
   {
     "city": "Siwa Oasis",
     "location": "Western Desert, near Libyan border",
     "description": "A remote and unique oasis with ancient ruins, salt lakes, hot springs, and a distinct Berber culture.",
     "category": "Oases & Cultural Sites",
-    "attractions": ["Temple of the Oracle (Temple of Amun)", "Shali Fortress", "Cleopatra's Bath", "Salt Lakes", "Desert safaris"]
+    "attractions": [
+      "Temple of the Oracle (Temple of Amun)",
+      "Shali Fortress",
+      "Cleopatra's Bath",
+      "Salt Lakes",
+      "Desert safaris"
+    ],
+    "weather": "Extremely hot and dry in June during the day, with significant temperature drops at night characteristic of desert climates."
   },
   {
     "city": "Wadi El Hitan",
     "location": "Faiyum Oasis",
     "description": "A UNESCO World Heritage site famous for its exceptionally preserved fossilized whale skeletons from an ancient ocean.",
     "category": "Natural Parks & Reserves",
-    "attractions": ["Fossilized whale skeletons", "Desert landscapes"]
+    "attractions": [
+      "Fossilized whale skeletons",
+      "Desert landscapes"
+    ],
+    "weather": "Very hot and dry in June, with high daytime temperatures."
   },
   {
     "city": "Mount Sinai",
     "location": "Sinai Peninsula",
     "description": "A significant religious site, believed to be where Moses received the Ten Commandments. Many hike to the summit for sunrise.",
     "category": "Religious Sites & Natural Attractions",
-    "attractions": ["Sunrise views", "Chapel of the Holy Trinity"]
+    "attractions": [
+      "Sunrise views",
+      "Chapel of the Holy Trinity"
+    ],
+    "weather": "Hot and dry in June during the day. Nights can be cool due to altitude."
   },
   {
     "city": "St. Catherine's Monastery",
     "location": "Sinai Peninsula, at the foot of Mount Sinai",
     "description": "One of the oldest continuously inhabited Christian monasteries in the world, home to invaluable manuscripts and icons.",
     "category": "Religious Sites & Historical Sites",
-    "attractions": ["Burning Bush", "Monastery library (restricted access)", "Icons and mosaics"]
+    "attractions": [
+      "Burning Bush",
+      "Monastery library (restricted access)",
+      "Icons and mosaics"
+    ],
+    "weather": "Hot and dry in June during the day. Nights can be cool due to altitude. Average daytime temperature around 30-36°C, nighttime around 20-22°C."
   },
   {
     "city": "Coloured Canyon",
     "location": "Near Nuweiba, Sinai Peninsula",
     "description": "A natural geological formation with stunning rock colors and formations, perfect for hiking and exploring.",
     "category": "Natural Attractions",
-    "attractions": ["Narrow canyon passages", "Vibrant rock formations"]
+    "attractions": [
+      "Narrow canyon passages",
+      "Vibrant rock formations"
+    ],
+    "weather": "Hot and dry in June. Temperatures can be very high, especially within the canyon."
   },
   {
     "city": "Port Said",
     "location": "Northern Suez Canal",
     "description": "A historic port city at the northern entrance of the Suez Canal, known for its colonial-era architecture.",
     "category": "Cities & Historical Sites",
-    "attractions": ["Suez Canal Authority Building", "Lighthouse of Port Said", "National Museum of Port Said"]
+    "attractions": [
+      "Suez Canal Authority Building",
+      "Lighthouse of Port Said",
+      "National Museum of Port Said"
+    ],
+    "weather": "Hot and dry in June, moderated by sea breezes. Temperatures typically high, but more pleasant than inland areas."
   },
   {
     "city": "Suez",
     "location": "Southern Suez Canal",
     "description": "A seaport city at the southern end of the Suez Canal, historically significant.",
     "category": "Cities & Historical Sites",
-    "attractions": ["Suez Canal (southern terminus)", "Ain Sokhna (nearby resort area)"]
+    "attractions": [
+      "Suez Canal (southern terminus)",
+      "Ain Sokhna (nearby resort area)"
+    ],
+    "weather": "Hot and dry in June, with high humidity near the coast. Temperatures typically high."
   },
   {
     "city": "Ismailia",
     "location": "Mid-Suez Canal",
     "description": "A charming city on the west bank of the Suez Canal, known for its green spaces and French colonial architecture.",
     "category": "Cities & Historical Sites",
-    "attractions": ["Suez Canal Museum", "Timsah Lake", "Ferdinand de Lesseps' House"]
+    "attractions": [
+      "Suez Canal Museum",
+      "Timsah Lake",
+      "Ferdinand de Lesseps' House"
+    ],
+    "weather": "Hot and dry in June, with high humidity due to proximity to the canal and lake."
   },
   {
     "city": "Marsa Matruh",
     "location": "Mediterranean Coast, west of Alexandria",
     "description": "A beautiful Mediterranean coastal city with stunning clear waters and pristine beaches.",
     "category": "Coastal & Natural Attractions",
-    "attractions": ["Ageeba Beach", "Rommel's Cave", "Cleopatra's Bath"]
+    "attractions": [
+      "Ageeba Beach",
+      "Rommel's Cave",
+      "Cleopatra's Bath"
+    ],
+    "weather": "Hot and dry in June, with refreshing sea breezes. Temperatures are generally pleasant compared to inland cities."
   }
 ]
 
