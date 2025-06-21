@@ -72,14 +72,12 @@ def city_info_response(message):
         if city in message:
             if 'where' in message or 'location' in message:
                 return f"{city_item['city']} is located at: {city_item['location']}."
-            elif any(kw in message for kw in ['what', 'description', 'info', 'tell me about']):
+            elif any(kw in message for kw in ['description', 'info', 'tell me about']):
                 return f"{city_item['city']} is: {city_item['description']}"
             elif any(kw in message for kw in ['visit', 'attractions', 'places', 'see' ,'places to visit' , 'iconic' , 'top places','where to go', 'go' ]):
                 return f"Top places in {city_item['city']}: {', '.join(city_item.get('attractions', []))}"
             elif any(kw in message for kw in ['weather', 'weather in']):
-                return f"The weather in {city_item['city']}: {', '.join(city_item.get('weather', []))}"
-            else:
-                return f"{city_item['city']}: {city_item['description']} Located at: {city_item['location']}."
+                return f"The weather in {city_item['city']}: {''.join(city_item.get('weather', []))}"
 
         # Check attractions
         for attraction in city_item.get('attractions', []):
@@ -87,6 +85,28 @@ def city_info_response(message):
                 return f"{attraction} is located in {city_item['city']} — {city_item['description']}"
 
     return None
+
+def general_info_response(message):
+    if not isinstance(cities_data, list):
+        general_info = cities_data.get("general_info", {})
+    else:
+        general_info = next((item.get("general_info") for item in cities_data if isinstance(item, dict) and "general_info" in item), {})
+
+    msg = message.lower()
+
+    if "dish" in msg or "food" in msg or "eat" in msg:
+        return "Must-try Egyptian dishes include: " + ", ".join(general_info.get("must_try_dishes", []))
+    elif "connectivity" in msg or "internet" in msg or "wifi" in msg or "sim" in msg or "connection" in msg or "how to connect" in msg:
+        return "Connectivity options include: " + ", ".join(general_info.get("connectivity", []))
+    elif "responsible" in msg or "sustainable" in msg or "environment" in msg or "should" in msg:
+        return "Here are some responsible travel practices:\n" + "\n".join(general_info.get("responsible_practices_for_travelers", []))
+    elif "transport" in msg or "how to travel" in msg or "get around" in msg or "transportion" in msg:
+        return "".join(general_info.get("transportation", []))
+    elif "etiquette" in msg or "culture" in msg or "tip" in msg or "how to behave" in msg:
+        etiquette = general_info.get("cultural_etiquette_tips", {})
+        return "  ".join([f"{k.replace('_', ' ').title()}: {v}" for k, v in etiquette.items()])
+    return None
+
 
 # Flask routes
 @app.route('/chat', methods=['POST'])
@@ -102,7 +122,7 @@ def chat():
     if user_message.lower() in ["thanks", "thank you"]:
         return jsonify({"response": "You’re welcome!"})
 
-    for handler in [greeting, city_info_response, generate_response]:
+    for handler in [greeting, city_info_response, general_info_response,generate_response]:
         response = handler(user_message)
         if response:
             return jsonify({"response": response})

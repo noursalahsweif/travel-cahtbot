@@ -1,4 +1,37 @@
+
 [
+{
+  "general_info": {
+    "must_try_dishes": [
+      "Koshary ,",
+      "Ful Medames  ",
+      "Ta'ameya  ",
+      "Hawawshi  ",
+      "Mahshi  ",
+      "Kebab and Kofta  ",
+      "Om Ali  "
+    ],
+    "connectivity": ["sim_cards", "wifi_availability"],
+    "responsible_practices_for_travelers": [
+      "**Respect the Environment:** Do not litter. Stick to marked trails in natural parks and desert areas. Do not touch or stand on coral reefs when snorkeling or diving. Use reef-safe sunscreen.",
+      "**Conserve Resources:** Be mindful of water and energy consumption, especially in desert regions or remote areas. Reuse towels and opt out of daily linen changes in hotels if possible.",
+      "**Ethical Animal Interactions:** Avoid activities that exploit animals, such as camel or horse rides where the animals appear to be ill-treated or overworked. Do not engage with street vendors offering photo opportunities with captive animals (e.g., snakes, monkeys). Prioritize observing marine life in its natural habitat rather than supporting captive animal shows (like dolphin shows).",
+      "**Cultural Sensitivity:** Always seek permission before photographing individuals, especially women and children. Dress modestly when visiting local areas and religious sites. Engage respectfully with locals, learn a few Arabic phrases, and be open to cultural differences.",
+      "**Reduce Plastic Waste:** Carry a reusable water bottle and refill it when possible to minimize single-use plastic. Dispose of waste responsibly."
+    ],
+    "transportation": [
+      "inter_city Domestic flights are the fastest way to cover long distances between major cities. Overnight sleeper trains operate between Cairo and Luxor/Aswan. Long-distance buses connect many cities efficiently",
+      "intra_city Taxis are abundant; always agree on a fare before starting your journey. apps like Uber and Careem are operational in Cairo, Alexandria, and some other major cities."
+    ],
+    "cultural_etiquette_tips": {
+      "dress_code": "Dress modestly, especially when visiting religious sites and local areas...",
+      "greetings": "A simple 'Salam alaykum' is a polite greeting. 'Shukran' means thank you.",
+      "bargaining": "Bargaining is expected in markets and smaller shops...",
+      "tipping_baksheesh": "Baksheesh is an ingrained part of Egyptian culture...",
+      "photography": "Always ask permission before taking photos of people, especially women..."
+    }
+  }
+},
   {
     "city": "Egypt",
     "description": "Egypt is a transcontinental country linking northeast Africa with the Middle East, known for its ancient civilization, iconic monuments, and the Nile River.",
@@ -722,4 +755,5 @@
     "weather": "Hot and dry in June, with refreshing sea breezes. Temperatures are generally pleasant compared to inland cities."
   }
 ]
+
 
