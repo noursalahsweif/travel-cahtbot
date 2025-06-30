@@ -7,11 +7,13 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from flask_cors import CORS 
 
 warnings.filterwarnings("ignore")
 nltk.download('popular', quiet=True)
 
 app = Flask(__name__)
+CORS(app)
 
 # Load city data
 try:
